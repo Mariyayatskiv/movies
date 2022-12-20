@@ -1,9 +1,9 @@
 ## Design: 
-https://www.figma.com/file/OxvMrlhv4etCtpTObJD6QI/Movibes-Website-(Community)?node-id=60%3A2&t=c59eCzdcqgy2pjFR-0
+[Figma](https://www.figma.com/file/OxvMrlhv4etCtpTObJD6QI/Movibes-Website-(Community)?node-id=60%3A2&t=c59eCzdcqgy2pjFR-0)
 
 
 ## API: 
-https://developers.themoviedb.org/3/movies/get-movie-details
+[API](https://developers.themoviedb.org/3/movies/get-movie-details)
 
 ## Available Scripts
 
